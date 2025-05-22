@@ -39,8 +39,8 @@ formulario-bootstrap/
 ## URLs del Proyecto
 
 ### URLs de Acceso
-- **Clonar Repositorio**: `https://github.com/AlejandroQuintelaIA/formulario-bootstrap.git`
-- **Ver Código**: `https://github.com/AlejandroQuintelaIA/formulario-bootstrap`
+- **Clonar Repositorio**: `https://github.com/AlejandroQuintelaIA/MAIO.git`
+- **Ver Código**: `https://github.com//AlejandroQuintelaIA/MAIO`
 - **GitHub Pages**: `https://alejandroquintelaia.github.io/MAIO/`
 
 ## Tecnologías utilizadas
