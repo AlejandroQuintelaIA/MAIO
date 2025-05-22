@@ -1,0 +1,28 @@
+{
+  "name": "maio",
+  "version": "1.0.0",
+  "description": "Este proyecto implementa un formulario de contacto responsive utilizando Bootstrap 5 con validación del lado del cliente.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroQuintelaIA/MAIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AlejandroQuintelaIA/MAIO/issues"
+  },
+  "homepage": "https://github.com/AlejandroQuintelaIA/MAIO#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "playwright": "^1.52.0"
+  }
+}
