@@ -58,3 +58,33 @@ Este formulario solo funciona correctamente cuando se ejecuta a través de:
 - JavaScript
 - Bootstrap 5
 - Apache Server
+
+## Ejecución de Tests
+
+Para ejecutar las pruebas automatizadas del formulario:
+
+1. Instala las dependencias necesarias:
+```bash
+npm install
+npm i -D @playwright/test
+```
+
+2. Instala los navegadores requeridos:
+```bash
+npx playwright install
+```
+
+3. Ejecuta los tests:
+```bash
+npx playwright test
+```
+
+Las pruebas verifican:
+- Envío correcto del formulario con datos válidos
+- Validación de campos vacíos
+- Comportamiento del formulario con datos inválidos
+
+### Requisitos previos
+- Node.js instalado
+- Servidor Apache ejecutándose (XAMPP)
+- Proyecto ubicado en la carpeta htdocs
