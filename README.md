@@ -27,8 +27,16 @@ formulario-bootstrap/
 ## Cómo usar
 
 1. Clona el repositorio
-2. Abre `index.html` en tu navegador
-3. Prueba el formulario completando los campos
+2. Coloca los archivos en tu servidor Apache local (ej: xampp/htdocs/)
+3. Accede a través de localhost en tu navegador
+4. Prueba el formulario completando los campos
+
+## Importante ⚠️
+
+Este formulario solo funciona correctamente cuando se ejecuta a través de:
+- Servidor Apache
+- Acceso mediante localhost
+- No funcionará si se abre directamente el archivo HTML
 
 ## Validaciones
 
@@ -49,3 +57,4 @@ formulario-bootstrap/
 - CSS3
 - JavaScript
 - Bootstrap 5
+- Apache Server
